@@ -1,3 +1,4 @@
+"use client"; // <--- Add this line
 import { ShowpasswordIcon } from "@/assets/icons";
 import { cn } from "@/lib/utils";
 import { type HTMLInputTypeAttribute, useId, useState } from "react";
