@@ -29,4 +29,25 @@ export const masoolService = {
 
     return data;
   },
+   uploadMasoolReportData: async (file: File, module: string = "AMS") => {
+    // 1. Prepare FormData for multipart/form-data upload
+    const formData = new FormData();
+    formData.append("file", file);
+
+    // 2. Execute the request
+    const response = await fetch(`${API_BASE_URL}/masool-report/upload?module=${module}`, {
+      method: "POST",
+      // Note: Do NOT set Content-Type header manually when using FormData.
+      // The browser will automatically set it with the correct boundary.
+      body: formData,
+    });
+
+    const data = await response.json();
+
+    if (!response.ok) {
+      throw new Error(data.message || "Failed to upload file to the server");
+    }
+
+    return data;
+  },
 };

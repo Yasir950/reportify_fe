@@ -1,0 +1,16 @@
+{
+  "/(home)/page": "app/(home)/page.js",
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/auth/sign-in/page": "app/auth/sign-in/page.js",
+  "/charts/basic-chart/page": "app/charts/basic-chart/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/file-upload/page": "app/file-upload/page.js",
+  "/pages/settings/page": "app/pages/settings/page.js",
+  "/profile/page": "app/profile/page.js",
+  "/reports/charts/page": "app/reports/charts/page.js",
+  "/reports/map/page": "app/reports/map/page.js",
+  "/tables/page": "app/tables/page.js",
+  "/ui-elements/alerts/page": "app/ui-elements/alerts/page.js",
+  "/ui-elements/buttons/page": "app/ui-elements/buttons/page.js"
+}

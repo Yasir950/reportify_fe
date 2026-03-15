@@ -8,6 +8,7 @@ type PropsType = {
   label: string;
   name?: string;
   minimal?: boolean;
+  checked?: boolean; // Add this line!
   onChange?: (e: React.ChangeEvent<HTMLInputElement>) => void;
   radius?: "default" | "md";
 };

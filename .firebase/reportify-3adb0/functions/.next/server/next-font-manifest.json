@@ -1,0 +1,12 @@
+{
+  "app": {
+    "[project]/src/app/(home)/page": [],
+    "[project]/src/app/auth/sign-in/page": [],
+    "[project]/src/app/file-upload/page": [],
+    "[project]/src/app/reports/charts/page": [],
+    "[project]/src/app/reports/map/page": []
+  },
+  "appUsingSizeAdjust": false,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}

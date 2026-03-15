@@ -1,0 +1,16 @@
+{
+  "/(home)/page": "/",
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/auth/sign-in/page": "/auth/sign-in",
+  "/charts/basic-chart/page": "/charts/basic-chart",
+  "/favicon.ico/route": "/favicon.ico",
+  "/file-upload/page": "/file-upload",
+  "/pages/settings/page": "/pages/settings",
+  "/profile/page": "/profile",
+  "/reports/charts/page": "/reports/charts",
+  "/reports/map/page": "/reports/map",
+  "/tables/page": "/tables",
+  "/ui-elements/alerts/page": "/ui-elements/alerts",
+  "/ui-elements/buttons/page": "/ui-elements/buttons"
+}
