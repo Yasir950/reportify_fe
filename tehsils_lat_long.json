@@ -1,0 +1,2892 @@
+[
+  {
+    "name": "Bagh",
+    "latitude": 33.98094855819859,
+    "longitude": 73.88355861479047
+  },
+  {
+    "name": "Dhir Kot",
+    "latitude": 34.04343765819473,
+    "longitude": 73.59816867206197
+  },
+  {
+    "name": "Harighel",
+    "latitude": 33.98215416376601,
+    "longitude": 73.73602335151426
+  },
+  {
+    "name": "Barnala",
+    "latitude": 32.933988402835915,
+    "longitude": 74.26208788489558
+  },
+  {
+    "name": "Bhimber",
+    "latitude": 33.05963780304884,
+    "longitude": 73.99352009527078
+  },
+  {
+    "name": "Samahni",
+    "latitude": 33.113566246083614,
+    "longitude": 74.04928956866071
+  },
+  {
+    "name": "Chikar",
+    "latitude": 34.12478905947602,
+    "longitude": 73.68778999743752
+  },
+  {
+    "name": "Hattian",
+    "latitude": 34.154940655785076,
+    "longitude": 73.7713279350457
+  },
+  {
+    "name": "Leepa",
+    "latitude": 34.31147099616105,
+    "longitude": 73.81866047415261
+  },
+  {
+    "name": "Haveli",
+    "latitude": 33.928313706198864,
+    "longitude": 74.0465106280117
+  },
+  {
+    "name": "Khurshid Abad",
+    "latitude": 33.958293975142915,
+    "longitude": 74.16673949119647
+  },
+  {
+    "name": "Mumtazabad",
+    "latitude": 33.92204926342861,
+    "longitude": 74.01055197985723
+  },
+  {
+    "name": "Charhoi",
+    "latitude": 33.333848533939474,
+    "longitude": 73.9361344536558
+  },
+  {
+    "name": "Dulliya Jattan",
+    "latitude": 33.30968957367887,
+    "longitude": 73.84394764454645
+  },
+  {
+    "name": "Fatehpur Thakiala",
+    "latitude": 33.47077494593177,
+    "longitude": 74.08358950169078
+  },
+  {
+    "name": "Khui Ratta",
+    "latitude": 33.34643588057027,
+    "longitude": 74.06508321659584
+  },
+  {
+    "name": "Kotli",
+    "latitude": 33.53533185689354,
+    "longitude": 73.92349234046351
+  },
+  {
+    "name": "Sehnsa",
+    "latitude": 33.53697005040096,
+    "longitude": 73.73176486458132
+  },
+  {
+    "name": "Dadyal",
+    "latitude": 33.339707107334526,
+    "longitude": 73.69151901409128
+  },
+  {
+    "name": "Mirpur",
+    "latitude": 33.214094302032436,
+    "longitude": 73.78816614894383
+  },
+  {
+    "name": "Muzaffarabad",
+    "latitude": 34.202551145216326,
+    "longitude": 73.59678405009444
+  },
+  {
+    "name": "Naseerabad",
+    "latitude": 34.43438791663338,
+    "longitude": 73.65817871646672
+  },
+  {
+    "name": "Athmuqam",
+    "latitude": 34.62405699412715,
+    "longitude": 73.83668859499724
+  },
+  {
+    "name": "Sharda",
+    "latitude": 34.94375021180339,
+    "longitude": 74.40411417663228
+  },
+  {
+    "name": "Abbaspur",
+    "latitude": 33.84762405177716,
+    "longitude": 73.97487098222292
+  },
+  {
+    "name": "Hajira",
+    "latitude": 33.72653250278332,
+    "longitude": 73.8979472164154
+  },
+  {
+    "name": "Rawalakot",
+    "latitude": 33.85376394418935,
+    "longitude": 73.7473646799073
+  },
+  {
+    "name": "Thorar",
+    "latitude": 33.86241520965339,
+    "longitude": 73.60219902776676
+  },
+  {
+    "name": "Baluch",
+    "latitude": 33.65486802367613,
+    "longitude": 73.86853855359435
+  },
+  {
+    "name": "Mong",
+    "latitude": 33.80221185814291,
+    "longitude": 73.63372195227731
+  },
+  {
+    "name": "Pallandari",
+    "latitude": 33.68120036980875,
+    "longitude": 73.68080478772471
+  },
+  {
+    "name": "Tarar Khal",
+    "latitude": 33.76599300194763,
+    "longitude": 73.75536164451692
+  },
+  {
+    "name": "Awaran",
+    "latitude": 26.34086463661812,
+    "longitude": 65.02916660856489
+  },
+  {
+    "name": "Jhal Jhao",
+    "latitude": 26.151508668183396,
+    "longitude": 65.77756924010814
+  },
+  {
+    "name": "Mashkai",
+    "latitude": 26.963399282550977,
+    "longitude": 65.54780136588988
+  },
+  {
+    "name": "Gishekore",
+    "latitude": 25.740856479194786,
+    "longitude": 64.77209135502518
+  },
+  {
+    "name": "Barkhan",
+    "latitude": 29.98432318803512,
+    "longitude": 69.49767484937789
+  },
+  {
+    "name": "Rakhni",
+    "latitude": 30.03775909494176,
+    "longitude": 69.79824514859956
+  },
+  {
+    "name": "Dalbandin",
+    "latitude": 28.847177805625183,
+    "longitude": 64.27975274292804
+  },
+  {
+    "name": "Nokkundi",
+    "latitude": 28.7034139272824,
+    "longitude": 63.054372740278254
+  },
+  {
+    "name": "Taftan",
+    "latitude": 28.985961137631428,
+    "longitude": 62.04010237008241
+  },
+  {
+    "name": "Chagai",
+    "latitude": 29.29501391108894,
+    "longitude": 64.82349962181674
+  },
+  {
+    "name": "Dera Bugti",
+    "latitude": 29.06527815352232,
+    "longitude": 68.86467477277203
+  },
+  {
+    "name": "Phelawagh",
+    "latitude": 29.284871113273155,
+    "longitude": 69.3815434589454
+  },
+  {
+    "name": "Sui",
+    "latitude": 28.774672173471384,
+    "longitude": 68.9863172003529
+  },
+  {
+    "name": "Gwadar",
+    "latitude": 25.351954794034068,
+    "longitude": 62.21439282195406
+  },
+  {
+    "name": "Jiwani",
+    "latitude": 25.188111865646377,
+    "longitude": 61.79410076139843
+  },
+  {
+    "name": "Ormara",
+    "latitude": 25.417028495648506,
+    "longitude": 64.61398507992
+  },
+  {
+    "name": "Pasni",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Sunster",
+    "latitude": 25.514661268207604,
+    "longitude": 61.94073734494568
+  },
+  {
+    "name": "Harnai",
+    "latitude": 30.015341820659938,
+    "longitude": 68.05549209910176
+  },
+  {
+    "name": "Shahrigh",
+    "latitude": 30.230405333229992,
+    "longitude": 67.57684438175437
+  },
+  {
+    "name": "Gandakha",
+    "latitude": 28.06761700922264,
+    "longitude": 67.78653548000003
+  },
+  {
+    "name": "Jhat Pat",
+    "latitude": 28.363141658692765,
+    "longitude": 68.20805445489331
+  },
+  {
+    "name": "Usta Mohammad",
+    "latitude": 28.15936960087357,
+    "longitude": 67.93880082010007
+  },
+  {
+    "name": "Gandawa",
+    "latitude": 28.580985087448816,
+    "longitude": 67.52991612209031
+  },
+  {
+    "name": "Jhal Magsi",
+    "latitude": 28.249352332189247,
+    "longitude": 67.51289313140549
+  },
+  {
+    "name": "Dhadar",
+    "latitude": 29.49538772999317,
+    "longitude": 67.60787227181012
+  },
+  {
+    "name": "Mach",
+    "latitude": 29.699814222513975,
+    "longitude": 67.33080132293894
+  },
+  {
+    "name": "Sanni",
+    "latitude": 28.93408500099842,
+    "longitude": 67.48135356783693
+  },
+  {
+    "name": "Balanari",
+    "latitude": 29.269293253335853,
+    "longitude": 67.846254149205
+  },
+  {
+    "name": "Khattan",
+    "latitude": 29.20935529618381,
+    "longitude": 67.66584123226512
+  },
+  {
+    "name": "Kalat",
+    "latitude": 29.091738494459047,
+    "longitude": 66.73435378998609
+  },
+  {
+    "name": "Khaliqabad",
+    "latitude": 29.44395353777537,
+    "longitude": 66.62727923848318
+  },
+  {
+    "name": "Buleda",
+    "latitude": 26.3814569793861,
+    "longitude": 63.159691537547964
+  },
+  {
+    "name": "Dasht",
+    "latitude": 25.67576246673906,
+    "longitude": 62.4840474267455
+  },
+  {
+    "name": "Kech (Turbat)",
+    "latitude": 25.876735797737282,
+    "longitude": 63.29112411156915
+  },
+  {
+    "name": "Mand",
+    "latitude": 25.88844107160874,
+    "longitude": 62.0153245067305
+  },
+  {
+    "name": "Tump",
+    "latitude": 26.164460488068876,
+    "longitude": 62.419910637200054
+  },
+  {
+    "name": "Kharan",
+    "latitude": 29.031551559143416,
+    "longitude": 65.8497618510338
+  },
+  {
+    "name": "Sar Kharan",
+    "latitude": 28.3666328312176,
+    "longitude": 65.72238996640462
+  },
+  {
+    "name": "Tomulk",
+    "latitude": 28.689676624642317,
+    "longitude": 65.0705237906911
+  },
+  {
+    "name": "Khuzdar",
+    "latitude": 27.71877088232754,
+    "longitude": 66.78361144154222
+  },
+  {
+    "name": "Mola",
+    "latitude": 28.02963649900502,
+    "longitude": 67.0430652427979
+  },
+  {
+    "name": "Naal",
+    "latitude": 27.162701030365426,
+    "longitude": 66.07473139083419
+  },
+  {
+    "name": "Wadh",
+    "latitude": 26.624976486500042,
+    "longitude": 66.79076749627916
+  },
+  {
+    "name": "Zehri",
+    "latitude": 28.56449834729456,
+    "longitude": 66.88085998464031
+  },
+  {
+    "name": "Dobandi",
+    "latitude": 31.05418825724364,
+    "longitude": 67.04631246216033
+  },
+  {
+    "name": "Gulistan",
+    "latitude": 30.235288185589777,
+    "longitude": 66.4229215081385
+  },
+  {
+    "name": "Killa Abdullah",
+    "latitude": 30.69541313236432,
+    "longitude": 66.63665096124286
+  },
+  {
+    "name": "Killa Saifullah",
+    "latitude": 30.995962457625236,
+    "longitude": 68.54572946866222
+  },
+  {
+    "name": "Muslim Bagh",
+    "latitude": 30.96834741231115,
+    "longitude": 67.79339827909664
+  },
+  {
+    "name": "Kahan",
+    "latitude": 29.458904425579487,
+    "longitude": 68.94780378366187
+  },
+  {
+    "name": "Kohlu",
+    "latitude": 29.939291787552293,
+    "longitude": 69.23623553529515
+  },
+  {
+    "name": "Mawand",
+    "latitude": 29.71176909504042,
+    "longitude": 68.6688063397902
+  },
+  {
+    "name": "Bela",
+    "latitude": 26.27455770733918,
+    "longitude": 66.39553594585009
+  },
+  {
+    "name": "Dureji",
+    "latitude": 26.00637550876734,
+    "longitude": 67.10178310658654
+  },
+  {
+    "name": "Gaddani",
+    "latitude": 25.110583073620578,
+    "longitude": 66.81730086671799
+  },
+  {
+    "name": "Hub",
+    "latitude": 25.22243071838955,
+    "longitude": 66.96161700714241
+  },
+  {
+    "name": "Kanraj",
+    "latitude": 26.157044665163024,
+    "longitude": 66.78248694810269
+  },
+  {
+    "name": "Sonmiani",
+    "latitude": 25.46267163593913,
+    "longitude": 66.81052215421644
+  },
+  {
+    "name": "Uthal",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Lakhra",
+    "latitude": 25.847599130273736,
+    "longitude": 66.34510458256015
+  },
+  {
+    "name": "Lairi",
+    "latitude": 25.5520079616031,
+    "longitude": 65.89585003233817
+  },
+  {
+    "name": "Bhag",
+    "latitude": 28.872663543550804,
+    "longitude": 67.82923390149998
+  },
+  {
+    "name": "Lehri",
+    "latitude": 29.042177849470516,
+    "longitude": 68.13761584531481
+  },
+  {
+    "name": "Loralai",
+    "latitude": 30.482429907532453,
+    "longitude": 68.38512895409723
+  },
+  {
+    "name": "Mekhtar",
+    "latitude": 30.49849073887572,
+    "longitude": 69.23753048510272
+  },
+  {
+    "name": "Dasht Spenzend",
+    "latitude": 29.67076460254164,
+    "longitude": 67.00294247121693
+  },
+  {
+    "name": "Kirdgap",
+    "latitude": 29.63981126767042,
+    "longitude": 66.37684373728341
+  },
+  {
+    "name": "Mastung",
+    "latitude": 29.816372739718595,
+    "longitude": 66.71454728047311
+  },
+  {
+    "name": "Drug",
+    "latitude": 31.125615852997292,
+    "longitude": 70.14203040397793
+  },
+  {
+    "name": "Kingri",
+    "latitude": 30.57957089121841,
+    "longitude": 69.69752376145895
+  },
+  {
+    "name": "Musakhel",
+    "latitude": 31.150027460738155,
+    "longitude": 69.90611659551632
+  },
+  {
+    "name": "Chattar",
+    "latitude": 28.7893694854817,
+    "longitude": 68.3245642705422
+  },
+  {
+    "name": "Dera Murad Jamali",
+    "latitude": 28.62309943285299,
+    "longitude": 68.16970662963054
+  },
+  {
+    "name": "Tamboo",
+    "latitude": 28.493090956774296,
+    "longitude": 67.90605006159213
+  },
+  {
+    "name": "Nushki",
+    "latitude": 29.382528683139874,
+    "longitude": 65.86704957138181
+  },
+  {
+    "name": "Gowargo",
+    "latitude": 26.79367655793991,
+    "longitude": 63.83754580628014
+  },
+  {
+    "name": "Jaheen Parome",
+    "latitude": 26.453570639259848,
+    "longitude": 63.64623229713368
+  },
+  {
+    "name": "Panjgur",
+    "latitude": 27.086438638832995,
+    "longitude": 64.21355348317056
+  },
+  {
+    "name": "Gichk",
+    "latitude": 26.769354376786467,
+    "longitude": 64.91840341966676
+  },
+  {
+    "name": "Barshore",
+    "latitude": 31.019967073783157,
+    "longitude": 67.49718785438007
+  },
+  {
+    "name": "Huramzai",
+    "latitude": 30.869873747672365,
+    "longitude": 66.89936611450683
+  },
+  {
+    "name": "Karezat",
+    "latitude": 30.59460020660346,
+    "longitude": 67.33234145935778
+  },
+  {
+    "name": "Pishin",
+    "latitude": 30.717076691612966,
+    "longitude": 67.02377793729683
+  },
+  {
+    "name": "Saranan",
+    "latitude": 30.43848957756459,
+    "longitude": 66.73966285362505
+  },
+  {
+    "name": "Panjpai",
+    "latitude": 30.063212887971474,
+    "longitude": 66.47430890095131
+  },
+  {
+    "name": "Quetta City",
+    "latitude": 30.092697715115165,
+    "longitude": 67.14857718331916
+  },
+  {
+    "name": "Quetta Saddar",
+    "latitude": 30.27582417292067,
+    "longitude": 66.96600206244527
+  },
+  {
+    "name": "Sherani",
+    "latitude": 31.5386106253763,
+    "longitude": 69.79848466834449
+  },
+  {
+    "name": "Sibi",
+    "latitude": 29.769898354398595,
+    "longitude": 67.9012520352173
+  },
+  {
+    "name": "Sohbatpur",
+    "latitude": 28.515115335953173,
+    "longitude": 68.70634111333081
+  },
+  {
+    "name": "Mashkhel",
+    "latitude": 27.801598136935578,
+    "longitude": 63.448902674336004
+  },
+  {
+    "name": "Basima",
+    "latitude": 28.032609238304378,
+    "longitude": 65.72412075995847
+  },
+  {
+    "name": "Washuk",
+    "latitude": 27.418530804478106,
+    "longitude": 64.26761061676912
+  },
+  {
+    "name": "Nag",
+    "latitude": 27.339626308357172,
+    "longitude": 65.23058212725087
+  },
+  {
+    "name": "Shaogari",
+    "latitude": 28.393296573272142,
+    "longitude": 64.53033742817692
+  },
+  {
+    "name": "Kakar Khurasan",
+    "latitude": 31.386993060577876,
+    "longitude": 68.59117637637753
+  },
+  {
+    "name": "Zhob",
+    "latitude": 31.106914113936117,
+    "longitude": 69.35303979971782
+  },
+  {
+    "name": "Sinjawi",
+    "latitude": 30.35119388447181,
+    "longitude": 68.17339172190265
+  },
+  {
+    "name": "Ziarat",
+    "latitude": 30.436316967309207,
+    "longitude": 67.48780964158064
+  },
+  {
+    "name": "Surab",
+    "latitude": 28.322202010233237,
+    "longitude": 66.17600370632299
+  },
+  {
+    "name": "Duki",
+    "latitude": 30.15778604374969,
+    "longitude": 69.09610646330421
+  },
+  {
+    "name": "Chaman",
+    "latitude": 30.765278203377502,
+    "longitude": 66.56110262322065
+  },
+  {
+    "name": "Astore",
+    "latitude": 35.54399098809929,
+    "longitude": 74.82545459027213
+  },
+  {
+    "name": "Shounter",
+    "latitude": 35.029974239979175,
+    "longitude": 74.9057479418355
+  },
+  {
+    "name": "Chilas",
+    "latitude": 35.42169650485824,
+    "longitude": 74.30513413026935
+  },
+  {
+    "name": "Daghoni",
+    "latitude": 35.29849528458068,
+    "longitude": 76.14086100265399
+  },
+  {
+    "name": "Khaplu",
+    "latitude": 35.051280280082324,
+    "longitude": 76.4388871465686
+  },
+  {
+    "name": "Mashabbrum",
+    "latitude": 35.40533443171177,
+    "longitude": 76.69134625702165
+  },
+  {
+    "name": "Ishkoman",
+    "latitude": 36.548670926019916,
+    "longitude": 73.92405272983127
+  },
+  {
+    "name": "Punial",
+    "latitude": 36.07937982247935,
+    "longitude": 73.86242914806662
+  },
+  {
+    "name": "Gilgit",
+    "latitude": 35.9110637701719,
+    "longitude": 74.39094706445562
+  },
+  {
+    "name": "Ali Abad",
+    "latitude": 36.34270832140996,
+    "longitude": 74.64143273371741
+  },
+  {
+    "name": "Gojal",
+    "latitude": 36.47453148670674,
+    "longitude": 75.16628743689547
+  },
+  {
+    "name": "Gamba",
+    "latitude": 35.22937432823349,
+    "longitude": 75.30341240178235
+  },
+  {
+    "name": "Skardu",
+    "latitude": 35.22617756871506,
+    "longitude": 75.75795578053946
+  },
+  {
+    "name": "Nagar",
+    "latitude": 36.20635233061972,
+    "longitude": 74.93889088771995
+  },
+  {
+    "name": "Sikandar Abad",
+    "latitude": 36.33809005383211,
+    "longitude": 74.31597081356651
+  },
+  {
+    "name": "Gultari",
+    "latitude": 34.86967307065263,
+    "longitude": 75.45496036071977
+  },
+  {
+    "name": "Kharmang",
+    "latitude": 34.97200059343728,
+    "longitude": 76.03876596180137
+  },
+  {
+    "name": "Shigar",
+    "latitude": 35.76733290925979,
+    "longitude": 75.74394362847174
+  },
+  {
+    "name": "Darel",
+    "latitude": 35.74144327364554,
+    "longitude": 73.86434888684789
+  },
+  {
+    "name": "Tangir",
+    "latitude": 35.79307179621858,
+    "longitude": 73.331921441374
+  },
+  {
+    "name": "Gupis",
+    "latitude": 36.12527608614735,
+    "longitude": 73.53783954738445
+  },
+  {
+    "name": "Phandar",
+    "latitude": 36.11665900793623,
+    "longitude": 72.9293582450452
+  },
+  {
+    "name": "Yasin",
+    "latitude": 36.460875316102424,
+    "longitude": 73.37571589688065
+  },
+  {
+    "name": "Rondu",
+    "latitude": 35.584896888285506,
+    "longitude": 75.06193453388256
+  },
+  {
+    "name": "Islamabad",
+    "latitude": 33.680138226408765,
+    "longitude": 73.15961116438832
+  },
+  {
+    "name": "Abbottabad",
+    "latitude": 34.152063943542494,
+    "longitude": 73.27658641498748
+  },
+  {
+    "name": "Havelian",
+    "latitude": 34.001759859833555,
+    "longitude": 73.18064938177585
+  },
+  {
+    "name": "Lora",
+    "latitude": 33.91924848643992,
+    "longitude": 73.27709729069858
+  },
+  {
+    "name": "Lower Tanawal",
+    "latitude": 34.20484060923768,
+    "longitude": 73.07297283885482
+  },
+  {
+    "name": "Bar Chamarkand",
+    "latitude": 34.72700610166024,
+    "longitude": 71.2124791223302
+  },
+  {
+    "name": "Barang",
+    "latitude": 34.64029196241966,
+    "longitude": 71.63269297970145
+  },
+  {
+    "name": "Khar",
+    "latitude": 34.733924751953296,
+    "longitude": 71.49347758289426
+  },
+  {
+    "name": "Mamund",
+    "latitude": 34.801140626703734,
+    "longitude": 71.41390118529354
+  },
+  {
+    "name": "Nawagai",
+    "latitude": 34.72258387359699,
+    "longitude": 71.30427650995114
+  },
+  {
+    "name": "Salarzai",
+    "latitude": 34.83799495840866,
+    "longitude": 71.51930394621859
+  },
+  {
+    "name": "Utman Khel",
+    "latitude": 34.72330920371662,
+    "longitude": 71.68212294570087
+  },
+  {
+    "name": "Bannu",
+    "latitude": 32.92137003368174,
+    "longitude": 70.68305855200555
+  },
+  {
+    "name": "Baka Khel",
+    "latitude": 32.88449466229197,
+    "longitude": 70.50298802183008
+  },
+  {
+    "name": "Domel",
+    "latitude": 32.94990702225529,
+    "longitude": 70.82712436824576
+  },
+  {
+    "name": "Kakki",
+    "latitude": 32.854295266738234,
+    "longitude": 70.68828887988961
+  },
+  {
+    "name": "Miryan",
+    "latitude": 32.89891175782846,
+    "longitude": 70.58510023093388
+  },
+  {
+    "name": "Wazir",
+    "latitude": 33.02840107756374,
+    "longitude": 70.51534410617452
+  },
+  {
+    "name": "Allai",
+    "latitude": 34.83049105089099,
+    "longitude": 73.17572614441056
+  },
+  {
+    "name": "Batagram",
+    "latitude": 34.68953669322662,
+    "longitude": 73.02816970486003
+  },
+  {
+    "name": "Daggar",
+    "latitude": 34.54971547136246,
+    "longitude": 72.37128448615482
+  },
+  {
+    "name": "Gagra",
+    "latitude": 34.56081873599477,
+    "longitude": 72.64366482255362
+  },
+  {
+    "name": "Khado Khel",
+    "latitude": 34.23683730646933,
+    "longitude": 72.52329078670816
+  },
+  {
+    "name": "Mandanr",
+    "latitude": 34.3685901305081,
+    "longitude": 72.66018271723328
+  },
+  {
+    "name": "Charsadda",
+    "latitude": 34.17206951928052,
+    "longitude": 71.79386372787356
+  },
+  {
+    "name": "Shabqadar",
+    "latitude": 34.21591043853264,
+    "longitude": 71.58698596720222
+  },
+  {
+    "name": "Tangi",
+    "latitude": 34.33814078946706,
+    "longitude": 71.72153341330886
+  },
+  {
+    "name": "Chitral",
+    "latitude": 35.78024240218297,
+    "longitude": 71.91309705753686
+  },
+  {
+    "name": "Drosh",
+    "latitude": 35.52152337066823,
+    "longitude": 71.9035261178485
+  },
+  {
+    "name": "Lotkoh",
+    "latitude": 36.095936267783955,
+    "longitude": 71.95881859774711
+  },
+  {
+    "name": "Mastuj",
+    "latitude": 36.1670176610649,
+    "longitude": 72.52221181736427
+  },
+  {
+    "name": "Mulkhow",
+    "latitude": 36.37592138422616,
+    "longitude": 72.19872033065508
+  },
+  {
+    "name": "D. I. Khan",
+    "latitude": 31.935546847671866,
+    "longitude": 70.7349883193471
+  },
+  {
+    "name": "Daraban",
+    "latitude": 31.65613659891452,
+    "longitude": 70.48211521555757
+  },
+  {
+    "name": "Kulachi",
+    "latitude": 32.02017660589611,
+    "longitude": 70.48654546728497
+  },
+  {
+    "name": "Paharpur",
+    "latitude": 32.28902486044877,
+    "longitude": 70.99613719553079
+  },
+  {
+    "name": "Paroa",
+    "latitude": 31.517413361977834,
+    "longitude": 70.6438649714601
+  },
+  {
+    "name": "Darazinda",
+    "latitude": 31.66266264833553,
+    "longitude": 70.15567020419624
+  },
+  {
+    "name": "Hangu",
+    "latitude": 33.48468621562213,
+    "longitude": 71.02573858373124
+  },
+  {
+    "name": "Tall",
+    "latitude": 33.38119944695995,
+    "longitude": 70.74718483702442
+  },
+  {
+    "name": "Ghazi",
+    "latitude": 34.16078906024554,
+    "longitude": 72.7548842909518
+  },
+  {
+    "name": "Haripur",
+    "latitude": 34.072789287505145,
+    "longitude": 72.99261340767976
+  },
+  {
+    "name": "Khanpur",
+    "latitude": 33.85835810360362,
+    "longitude": 73.07806062408905
+  },
+  {
+    "name": "Banda Daud Shah",
+    "latitude": 33.276020333820284,
+    "longitude": 71.0976153084997
+  },
+  {
+    "name": "Karak",
+    "latitude": 33.12558506197259,
+    "longitude": 71.12046673817281
+  },
+  {
+    "name": "Takht-E-Nasrati",
+    "latitude": 33.011138495287526,
+    "longitude": 71.153338484365
+  },
+  {
+    "name": "Bara",
+    "latitude": 33.86780232678225,
+    "longitude": 71.0280427670996
+  },
+  {
+    "name": "Jamrud",
+    "latitude": 33.97449972461122,
+    "longitude": 71.28957857051608
+  },
+  {
+    "name": "Landi Kotal",
+    "latitude": 34.06598464807375,
+    "longitude": 71.15303034374222
+  },
+  {
+    "name": "Mulagori",
+    "latitude": 34.12769780874148,
+    "longitude": 71.30013003938593
+  },
+  {
+    "name": "Kohat",
+    "latitude": 33.57046468074688,
+    "longitude": 71.377322067751
+  },
+  {
+    "name": "Lachi",
+    "latitude": 33.34834878869208,
+    "longitude": 71.39785018688809
+  },
+  {
+    "name": "Gumbat",
+    "latitude": 33.594957402877874,
+    "longitude": 71.833721100836
+  },
+  {
+    "name": "Darra Adam Khel",
+    "latitude": 33.678779545961376,
+    "longitude": 71.56670557795302
+  },
+  {
+    "name": "Pattan",
+    "latitude": 35.19186353441151,
+    "longitude": 73.01451728887709
+  },
+  {
+    "name": "Bankad",
+    "latitude": 35.12525240244267,
+    "longitude": 72.8310551804844
+  },
+  {
+    "name": "Dassu",
+    "latitude": 35.20078186901273,
+    "longitude": 73.52781826382946
+  },
+  {
+    "name": "Kandia",
+    "latitude": 35.52265981143954,
+    "longitude": 72.86808186677267
+  },
+  {
+    "name": "Harban Basha",
+    "latitude": 35.389283764840336,
+    "longitude": 73.54216101203933
+  },
+  {
+    "name": "Seo",
+    "latitude": 35.30719617859247,
+    "longitude": 73.19061985343274
+  },
+  {
+    "name": "Palas",
+    "latitude": 35.037654712276094,
+    "longitude": 73.26964241845891
+  },
+  {
+    "name": "Battera Kolai",
+    "latitude": 34.987544400216926,
+    "longitude": 72.94713327766479
+  },
+  {
+    "name": "Central Kurram",
+    "latitude": 33.718528707920576,
+    "longitude": 70.49002630018964
+  },
+  {
+    "name": "Lower Kurram",
+    "latitude": 33.55841952122915,
+    "longitude": 70.35874331949914
+  },
+  {
+    "name": "Upper Kurram",
+    "latitude": 33.83957664207682,
+    "longitude": 70.17336448085713
+  },
+  {
+    "name": "Lakki Marwat",
+    "latitude": 32.515582578504905,
+    "longitude": 70.86159513978515
+  },
+  {
+    "name": "Sarai Naurang",
+    "latitude": 32.77333438723237,
+    "longitude": 70.78113109988443
+  },
+  {
+    "name": "Bettani",
+    "latitude": 32.62191647708257,
+    "longitude": 70.38291906762572
+  },
+  {
+    "name": "Adenzai",
+    "latitude": 34.73442856490192,
+    "longitude": 72.02651139959973
+  },
+  {
+    "name": "Balambat",
+    "latitude": 34.86941674108635,
+    "longitude": 71.8924410884629
+  },
+  {
+    "name": "Lalqila",
+    "latitude": 34.9867483935915,
+    "longitude": 71.80048147851133
+  },
+  {
+    "name": "Munda",
+    "latitude": 34.831666495380794,
+    "longitude": 71.73949303717701
+  },
+  {
+    "name": "Samarbagh",
+    "latitude": 34.955978160071304,
+    "longitude": 71.67781093610036
+  },
+  {
+    "name": "Timergara",
+    "latitude": 34.76725429680436,
+    "longitude": 71.8525615018871
+  },
+  {
+    "name": "Bat Khela",
+    "latitude": 34.5582639659723,
+    "longitude": 71.92421105884307
+  },
+  {
+    "name": "Dargai",
+    "latitude": 34.456119478662444,
+    "longitude": 71.86919522125007
+  },
+  {
+    "name": "Bala Kot",
+    "latitude": 34.77351741086114,
+    "longitude": 73.55820890479484
+  },
+  {
+    "name": "Mansehra",
+    "latitude": 34.381451346794314,
+    "longitude": 73.13710874971247
+  },
+  {
+    "name": "Oghi",
+    "latitude": 34.453887210049785,
+    "longitude": 72.99266588540117
+  },
+  {
+    "name": "Baffa Pakhal",
+    "latitude": 34.550541542561604,
+    "longitude": 73.25077493586096
+  },
+  {
+    "name": "Darband",
+    "latitude": 34.36362688954534,
+    "longitude": 72.88232731760085
+  },
+  {
+    "name": "Katlang",
+    "latitude": 34.436758176240815,
+    "longitude": 72.08104529093416
+  },
+  {
+    "name": "Mardan",
+    "latitude": 34.175698170883834,
+    "longitude": 72.03845231173707
+  },
+  {
+    "name": "Takht Bhai",
+    "latitude": 34.35039358995771,
+    "longitude": 71.94775803631777
+  },
+  {
+    "name": "Rustam",
+    "latitude": 34.348886552224926,
+    "longitude": 72.27921286157407
+  },
+  {
+    "name": "Garhi Kapura",
+    "latitude": 34.18128827575104,
+    "longitude": 72.13903048982941
+  },
+  {
+    "name": "Ambar",
+    "latitude": 34.58435352557295,
+    "longitude": 71.46633301071994
+  },
+  {
+    "name": "Baizai",
+    "latitude": 34.57574039634046,
+    "longitude": 71.16572901386077
+  },
+  {
+    "name": "Halimzai",
+    "latitude": 34.38972217479819,
+    "longitude": 71.34862402756083
+  },
+  {
+    "name": "Khwazai",
+    "latitude": 34.403599844084106,
+    "longitude": 71.2267086591826
+  },
+  {
+    "name": "Pandiali",
+    "latitude": 34.47169987681507,
+    "longitude": 71.41165420209776
+  },
+  {
+    "name": "Prang Ghar",
+    "latitude": 34.4420218329297,
+    "longitude": 71.57379444291635
+  },
+  {
+    "name": "Safi",
+    "latitude": 34.562480602156874,
+    "longitude": 71.24679894356154
+  },
+  {
+    "name": "Yaka Ghund",
+    "latitude": 34.28010018885164,
+    "longitude": 71.33941382287787
+  },
+  {
+    "name": "Data Khel",
+    "latitude": 32.960499517395775,
+    "longitude": 69.86730167768054
+  },
+  {
+    "name": "Dossali",
+    "latitude": 32.83568590153352,
+    "longitude": 70.01095775921289
+  },
+  {
+    "name": "Garyum",
+    "latitude": 32.768584943678015,
+    "longitude": 70.09526923817099
+  },
+  {
+    "name": "Ghulam Khan",
+    "latitude": 33.09102044456973,
+    "longitude": 70.02840831798495
+  },
+  {
+    "name": "Mir Ali",
+    "latitude": 33.00076400052846,
+    "longitude": 70.23264743280463
+  },
+  {
+    "name": "Miran Shah",
+    "latitude": 32.98459483366044,
+    "longitude": 70.02011518190646
+  },
+  {
+    "name": "Razmak",
+    "latitude": 32.7449392167071,
+    "longitude": 69.86262780588378
+  },
+  {
+    "name": "Shewa",
+    "latitude": 33.262836384221345,
+    "longitude": 70.42341700150926
+  },
+  {
+    "name": "Spinwam",
+    "latitude": 33.15102761350293,
+    "longitude": 70.30683717406245
+  },
+  {
+    "name": "Shawal",
+    "latitude": 32.69992923972775,
+    "longitude": 69.67289183290633
+  },
+  {
+    "name": "Nowshera",
+    "latitude": 33.98924161939254,
+    "longitude": 71.98236332797083
+  },
+  {
+    "name": "Pabbi",
+    "latitude": 33.97249040163437,
+    "longitude": 71.78849866126755
+  },
+  {
+    "name": "Jehangira",
+    "latitude": 33.89586229052173,
+    "longitude": 72.07216961884095
+  },
+  {
+    "name": "Central Orakzai",
+    "latitude": 33.69362234640752,
+    "longitude": 70.95412723750366
+  },
+  {
+    "name": "Ismailzai",
+    "latitude": 33.623604221321806,
+    "longitude": 70.92701385245883
+  },
+  {
+    "name": "Lower Orakzai",
+    "latitude": 33.74407865537401,
+    "longitude": 71.13830799175948
+  },
+  {
+    "name": "Upper Orakzai",
+    "latitude": 33.692559978129076,
+    "longitude": 70.73102543505088
+  },
+  {
+    "name": "Town-I",
+    "latitude": 34.01531628427759,
+    "longitude": 71.58118718526323
+  },
+  {
+    "name": "Town-Ii",
+    "latitude": 34.07765454719148,
+    "longitude": 71.58760571857877
+  },
+  {
+    "name": "Town-Iii",
+    "latitude": 34.00351668626414,
+    "longitude": 71.49595841069437
+  },
+  {
+    "name": "Town-Iv",
+    "latitude": 33.9187534346469,
+    "longitude": 71.64057466171855
+  },
+  {
+    "name": "Hassan Khel",
+    "latitude": 33.70730223150442,
+    "longitude": 71.68088292041055
+  },
+  {
+    "name": "Alpuri",
+    "latitude": 34.96109360214389,
+    "longitude": 72.67916422907582
+  },
+  {
+    "name": "Bisham",
+    "latitude": 34.87508915498381,
+    "longitude": 72.88659724106851
+  },
+  {
+    "name": "Chakisar",
+    "latitude": 34.783024791647954,
+    "longitude": 72.77550953383948
+  },
+  {
+    "name": "Makhuzai",
+    "latitude": 34.68406334397596,
+    "longitude": 72.59142559785913
+  },
+  {
+    "name": "Martoong",
+    "latitude": 34.63277627152054,
+    "longitude": 72.75180269300009
+  },
+  {
+    "name": "Puran",
+    "latitude": 34.74197575020645,
+    "longitude": 72.65872915129893
+  },
+  {
+    "name": "Birmal",
+    "latitude": 32.37616532810208,
+    "longitude": 69.46601515285028
+  },
+  {
+    "name": "Ladha",
+    "latitude": 32.60730315617421,
+    "longitude": 69.94585638974088
+  },
+  {
+    "name": "Makin",
+    "latitude": 32.65368474530676,
+    "longitude": 69.90411542777194
+  },
+  {
+    "name": "Sararogha",
+    "latitude": 32.481702675285746,
+    "longitude": 70.08730085143662
+  },
+  {
+    "name": "Serwakai",
+    "latitude": 32.33622435371423,
+    "longitude": 69.90858376017924
+  },
+  {
+    "name": "Tiarza",
+    "latitude": 32.447504357697504,
+    "longitude": 69.7297194351105
+  },
+  {
+    "name": "Toi Khulla",
+    "latitude": 32.0862703012305,
+    "longitude": 69.53010959039706
+  },
+  {
+    "name": "Wana",
+    "latitude": 32.17290128946266,
+    "longitude": 69.67517793232068
+  },
+  {
+    "name": "Lahor",
+    "latitude": 34.02758275509812,
+    "longitude": 72.31676160986537
+  },
+  {
+    "name": "Swabi",
+    "latitude": 34.11738162356348,
+    "longitude": 72.50993497930838
+  },
+  {
+    "name": "Topi",
+    "latitude": 34.162145524155264,
+    "longitude": 72.64467461291795
+  },
+  {
+    "name": "Razar",
+    "latitude": 34.230750449147344,
+    "longitude": 72.34897970198394
+  },
+  {
+    "name": "Babuzai",
+    "latitude": 34.72469030703254,
+    "longitude": 72.45079404173062
+  },
+  {
+    "name": "Bahrain",
+    "latitude": 35.25128805139313,
+    "longitude": 72.56892554955292
+  },
+  {
+    "name": "Barikot",
+    "latitude": 34.66234463420155,
+    "longitude": 72.17907875154414
+  },
+  {
+    "name": "Charbagh",
+    "latitude": 34.85190555378507,
+    "longitude": 72.5395525688505
+  },
+  {
+    "name": "Kabal",
+    "latitude": 34.87675079372202,
+    "longitude": 72.23183502221964
+  },
+  {
+    "name": "Kalam",
+    "latitude": 35.63295498620773,
+    "longitude": 72.51114234815142
+  },
+  {
+    "name": "Khwaza Khela",
+    "latitude": 35.00249514834353,
+    "longitude": 72.54953032942944
+  },
+  {
+    "name": "Matta Kharirai",
+    "latitude": 34.9989328085403,
+    "longitude": 72.39089764602826
+  },
+  {
+    "name": "Matta Sebujni",
+    "latitude": 35.01533242707003,
+    "longitude": 72.3409840543801
+  },
+  {
+    "name": "Tank",
+    "latitude": 32.21455940051555,
+    "longitude": 70.47093633233122
+  },
+  {
+    "name": "Jandola",
+    "latitude": 32.481561109612954,
+    "longitude": 70.23314909252579
+  },
+  {
+    "name": "Judba",
+    "latitude": 34.66516737337478,
+    "longitude": 72.84477071199795
+  },
+  {
+    "name": "Khander",
+    "latitude": 34.4597285986855,
+    "longitude": 72.81198356914129
+  },
+  {
+    "name": "Barawal",
+    "latitude": 35.10377325401351,
+    "longitude": 71.73276309071753
+  },
+  {
+    "name": "Dir",
+    "latitude": 35.21439492298164,
+    "longitude": 71.84346842883431
+  },
+  {
+    "name": "Kalkot",
+    "latitude": 35.50888914549915,
+    "longitude": 72.19245013513402
+  },
+  {
+    "name": "Khall",
+    "latitude": 34.90427102640902,
+    "longitude": 72.01450348674673
+  },
+  {
+    "name": "Shrengal",
+    "latitude": 35.42658624418719,
+    "longitude": 72.0005137174855
+  },
+  {
+    "name": "Wari",
+    "latitude": 35.02346257894997,
+    "longitude": 72.05999034117325
+  },
+  {
+    "name": "Larjam",
+    "latitude": 35.131726073900566,
+    "longitude": 72.08974071737607
+  },
+  {
+    "name": "Attock",
+    "latitude": 33.71741986260121,
+    "longitude": 72.35459688933582
+  },
+  {
+    "name": "Fateh Jang",
+    "latitude": 33.51479281966743,
+    "longitude": 72.65126164259047
+  },
+  {
+    "name": "Hasan Abdal",
+    "latitude": 33.79902669779254,
+    "longitude": 72.6807870423441
+  },
+  {
+    "name": "Hazro",
+    "latitude": 33.8863305378956,
+    "longitude": 72.43219715952745
+  },
+  {
+    "name": "Jand",
+    "latitude": 33.38180440773826,
+    "longitude": 72.07100542222665
+  },
+  {
+    "name": "Pindi Gheb",
+    "latitude": 33.27633522878864,
+    "longitude": 72.3101250690323
+  },
+  {
+    "name": "Bahawalnagar",
+    "latitude": 29.908781555751712,
+    "longitude": 73.11110392797373
+  },
+  {
+    "name": "Chishtian",
+    "latitude": 29.658824930211527,
+    "longitude": 72.7730789177253
+  },
+  {
+    "name": "Fort Abbas",
+    "latitude": 29.197951129428088,
+    "longitude": 72.60539885458529
+  },
+  {
+    "name": "Haroonabad",
+    "latitude": 29.427804107296474,
+    "longitude": 72.93300960666916
+  },
+  {
+    "name": "Minchinabad",
+    "latitude": 30.185266224926202,
+    "longitude": 73.5516194239759
+  },
+  {
+    "name": "Ahmadpur East",
+    "latitude": 29.277540697573677,
+    "longitude": 71.15284605561742
+  },
+  {
+    "name": "Bahawalpur",
+    "latitude": 29.360017614779647,
+    "longitude": 71.64584721084911
+  },
+  {
+    "name": "Hasilpur",
+    "latitude": 29.62022934594081,
+    "longitude": 72.50997827589262
+  },
+  {
+    "name": "Khairpur Tamewali",
+    "latitude": 29.608078442104365,
+    "longitude": 72.13960670616451
+  },
+  {
+    "name": "Yazman",
+    "latitude": 29.115433058320686,
+    "longitude": 71.96395439203575
+  },
+  {
+    "name": "Bhakkar",
+    "latitude": 31.56551107882359,
+    "longitude": 71.12561401168273
+  },
+  {
+    "name": "Darya Khan",
+    "latitude": 31.80722858347599,
+    "longitude": 71.36162494180653
+  },
+  {
+    "name": "Kalur Kot",
+    "latitude": 32.06445619397077,
+    "longitude": 71.45095187309457
+  },
+  {
+    "name": "Mankera",
+    "latitude": 31.432090072279447,
+    "longitude": 71.6158081055084
+  },
+  {
+    "name": "Chakwal",
+    "latitude": 33.018910615534345,
+    "longitude": 72.86524398796867
+  },
+  {
+    "name": "Choa Saidan Shah",
+    "latitude": 32.731817127311864,
+    "longitude": 73.03429533026724
+  },
+  {
+    "name": "Kallar Kahar",
+    "latitude": 32.76239273508464,
+    "longitude": 72.679063716571
+  },
+  {
+    "name": "Tala Gang",
+    "latitude": 32.884062208044895,
+    "longitude": 72.17952507500539
+  },
+  {
+    "name": "Bhawana",
+    "latitude": 31.542403799159086,
+    "longitude": 72.7188598584001
+  },
+  {
+    "name": "Chiniot",
+    "latitude": 31.73244596943425,
+    "longitude": 73.03038944756743
+  },
+  {
+    "name": "Lalian",
+    "latitude": 31.807247851338044,
+    "longitude": 72.82426968192861
+  },
+  {
+    "name": "D.G Khan (Tribal Area)",
+    "latitude": 30.41330610306883,
+    "longitude": 70.31256645969886
+  },
+  {
+    "name": "Dera Ghazi Khan",
+    "latitude": 30.191056685151356,
+    "longitude": 70.65881310192432
+  },
+  {
+    "name": "Kot Chatta",
+    "latitude": 29.834090644400895,
+    "longitude": 70.54633087384045
+  },
+  {
+    "name": "Taunsa",
+    "latitude": 30.843166196656206,
+    "longitude": 70.65874995675554
+  },
+  {
+    "name": "Chak Jhumra",
+    "latitude": 31.640140455755773,
+    "longitude": 73.25336591440427
+  },
+  {
+    "name": "Faisalabad City",
+    "latitude": 31.444391995495177,
+    "longitude": 73.08731989170005
+  },
+  {
+    "name": "Faisalabad Sadar",
+    "latitude": 31.335916605858067,
+    "longitude": 73.03544442479883
+  },
+  {
+    "name": "Jaranwala",
+    "latitude": 31.342637165504215,
+    "longitude": 73.39427434803747
+  },
+  {
+    "name": "Summundri",
+    "latitude": 31.056745654752802,
+    "longitude": 72.95768234574524
+  },
+  {
+    "name": "Tandlian Wala",
+    "latitude": 30.893966679174845,
+    "longitude": 73.06173398973512
+  },
+  {
+    "name": "Gujranwala",
+    "latitude": 32.14503923179929,
+    "longitude": 74.2013610865367
+  },
+  {
+    "name": "Kamoke",
+    "latitude": 31.99442095449513,
+    "longitude": 74.32205367177013
+  },
+  {
+    "name": "Nowshera Virkan",
+    "latitude": 31.990364442832615,
+    "longitude": 73.96632428340827
+  },
+  {
+    "name": "Wazirabad",
+    "latitude": 32.336478169533834,
+    "longitude": 73.96815829760568
+  },
+  {
+    "name": "Gujrat",
+    "latitude": 32.616798229496176,
+    "longitude": 74.09895698530457
+  },
+  {
+    "name": "Kharian",
+    "latitude": 32.7294928783625,
+    "longitude": 73.9061391074959
+  },
+  {
+    "name": "Sarai Alamgir",
+    "latitude": 32.85219755778466,
+    "longitude": 73.75778089823429
+  },
+  {
+    "name": "Hafizabad",
+    "latitude": 32.09221409050716,
+    "longitude": 73.63476832078112
+  },
+  {
+    "name": "Pindi Bhattian",
+    "latitude": 31.94807048669722,
+    "longitude": 73.38740741174503
+  },
+  {
+    "name": "Ahmadpur Sial",
+    "latitude": 30.786521472190664,
+    "longitude": 71.85709654924145
+  },
+  {
+    "name": "Jhang",
+    "latitude": 31.406826050663366,
+    "longitude": 72.36246368140009
+  },
+  {
+    "name": "Shorkot",
+    "latitude": 30.871093335022724,
+    "longitude": 72.17811684337572
+  },
+  {
+    "name": "Athara Hazari",
+    "latitude": 31.19562533279814,
+    "longitude": 72.01459591211933
+  },
+  {
+    "name": "Dina",
+    "latitude": 33.036582349710926,
+    "longitude": 73.5652111077213
+  },
+  {
+    "name": "Jhelum",
+    "latitude": 32.831550022182256,
+    "longitude": 73.50089405284646
+  },
+  {
+    "name": "Pind Dadan Khan",
+    "latitude": 32.627445748807126,
+    "longitude": 73.01850090570665
+  },
+  {
+    "name": "Sohawa",
+    "latitude": 33.02318146226202,
+    "longitude": 73.39433268534015
+  },
+  {
+    "name": "Chunian",
+    "latitude": 30.910594506616,
+    "longitude": 74.05455357283655
+  },
+  {
+    "name": "Kasur",
+    "latitude": 31.11447019130789,
+    "longitude": 74.32854633105819
+  },
+  {
+    "name": "Kot Radha Kishen",
+    "latitude": 31.193521371006916,
+    "longitude": 74.15420066544858
+  },
+  {
+    "name": "Pattoki",
+    "latitude": 31.147025864879758,
+    "longitude": 73.88122912599772
+  },
+  {
+    "name": "Jahanian",
+    "latitude": 30.044215681627566,
+    "longitude": 71.7633588665067
+  },
+  {
+    "name": "Kabirwala",
+    "latitude": 30.513691689842947,
+    "longitude": 71.86409807431346
+  },
+  {
+    "name": "Khanewal",
+    "latitude": 30.289039006967716,
+    "longitude": 72.01542919937992
+  },
+  {
+    "name": "Mian Channu",
+    "latitude": 30.371882290882226,
+    "longitude": 72.2661567826639
+  },
+  {
+    "name": "Khushab",
+    "latitude": 32.33808865747063,
+    "longitude": 72.33877120438851
+  },
+  {
+    "name": "Naushera",
+    "latitude": 32.575223118857025,
+    "longitude": 72.17684033251085
+  },
+  {
+    "name": "Noorpur",
+    "latitude": 31.89415911927161,
+    "longitude": 71.96461564648702
+  },
+  {
+    "name": "Quaidabad",
+    "latitude": 32.35578024329986,
+    "longitude": 71.95808052601967
+  },
+  {
+    "name": "Lahore Cantt",
+    "latitude": 31.502593425268287,
+    "longitude": 74.38611888186361
+  },
+  {
+    "name": "Lahore City",
+    "latitude": 31.437931716161444,
+    "longitude": 74.20977219301328
+  },
+  {
+    "name": "Choubara",
+    "latitude": 30.905673078391715,
+    "longitude": 71.55205530274422
+  },
+  {
+    "name": "Karor Lal Esan",
+    "latitude": 31.200200238481937,
+    "longitude": 71.05083999827852
+  },
+  {
+    "name": "Leiah",
+    "latitude": 30.871382504985938,
+    "longitude": 70.9903779876223
+  },
+  {
+    "name": "Dunyapur",
+    "latitude": 29.842150357894933,
+    "longitude": 71.72818643620556
+  },
+  {
+    "name": "Kahror Pacca",
+    "latitude": 29.634423501207873,
+    "longitude": 71.90426060719389
+  },
+  {
+    "name": "Lodhran",
+    "latitude": 29.593291152581056,
+    "longitude": 71.53127768489858
+  },
+  {
+    "name": "Malakwal",
+    "latitude": 32.42011479473676,
+    "longitude": 73.2238113332943
+  },
+  {
+    "name": "Mandi Bahauddin",
+    "latitude": 32.56152492719387,
+    "longitude": 73.52364878840703
+  },
+  {
+    "name": "Phalia",
+    "latitude": 32.35320017776844,
+    "longitude": 73.56011301231514
+  },
+  {
+    "name": "Isakhel",
+    "latitude": 32.84750956910256,
+    "longitude": 71.40103620331509
+  },
+  {
+    "name": "Mianwali",
+    "latitude": 32.68561666738244,
+    "longitude": 71.68251241891468
+  },
+  {
+    "name": "Piplan",
+    "latitude": 32.31326746330562,
+    "longitude": 71.43104710328474
+  },
+  {
+    "name": "Jalalpur Pirwala",
+    "latitude": 29.54258782852516,
+    "longitude": 71.21224336042941
+  },
+  {
+    "name": "Multan City",
+    "latitude": 30.182081437897942,
+    "longitude": 71.45823946363163
+  },
+  {
+    "name": "Multan Saddar",
+    "latitude": 30.1382577033961,
+    "longitude": 71.52904059601433
+  },
+  {
+    "name": "Shujabad",
+    "latitude": 29.821669407197348,
+    "longitude": 71.32803169900556
+  },
+  {
+    "name": "Alipur",
+    "latitude": 29.30876096441597,
+    "longitude": 70.76874370550132
+  },
+  {
+    "name": "Jatoi",
+    "latitude": 29.614926665213222,
+    "longitude": 70.8782001966742
+  },
+  {
+    "name": "Kot Addu",
+    "latitude": 30.42479498474671,
+    "longitude": 71.14472632847216
+  },
+  {
+    "name": "Muzaffargarh",
+    "latitude": 30.18702603196738,
+    "longitude": 71.24929286108984
+  },
+  {
+    "name": "Nankana Sahib",
+    "latitude": 31.33468066301607,
+    "longitude": 73.70498866368449
+  },
+  {
+    "name": "Sangla Hill",
+    "latitude": 31.72545772291758,
+    "longitude": 73.41622923180645
+  },
+  {
+    "name": "Shah Kot",
+    "latitude": 31.59817641699634,
+    "longitude": 73.56360154355923
+  },
+  {
+    "name": "Narowal",
+    "latitude": 32.100250272591424,
+    "longitude": 74.76939637985899
+  },
+  {
+    "name": "Shakargarh",
+    "latitude": 32.243323419354766,
+    "longitude": 75.09080351386514
+  },
+  {
+    "name": "Zafarwal",
+    "latitude": 32.29166142265824,
+    "longitude": 74.95713495477207
+  },
+  {
+    "name": "Depalpur",
+    "latitude": 30.576764245123343,
+    "longitude": 73.72449761172204
+  },
+  {
+    "name": "Okara",
+    "latitude": 30.771433129428196,
+    "longitude": 73.42103169721764
+  },
+  {
+    "name": "Renala Khurd",
+    "latitude": 30.93571614730412,
+    "longitude": 73.66574447181628
+  },
+  {
+    "name": "Arif Wala",
+    "latitude": 30.272977549366058,
+    "longitude": 73.0406656862567
+  },
+  {
+    "name": "Pakpattan",
+    "latitude": 30.38664991778007,
+    "longitude": 73.40550674075688
+  },
+  {
+    "name": "Khanpur",
+    "latitude": 28.712021882740206,
+    "longitude": 70.58902159984027
+  },
+  {
+    "name": "Liaqatpur",
+    "latitude": 28.611273398259602,
+    "longitude": 70.72347453244356
+  },
+  {
+    "name": "Rahim Yar Khan",
+    "latitude": 28.523896643733018,
+    "longitude": 70.33264216477755
+  },
+  {
+    "name": "Sadiqabad",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Jampur",
+    "latitude": 29.56998691089291,
+    "longitude": 70.40080842379601
+  },
+  {
+    "name": "Rajanpur",
+    "latitude": 29.162616311302592,
+    "longitude": 70.33813710944571
+  },
+  {
+    "name": "Rajanpur (Tribal Area)",
+    "latitude": 29.107987374097377,
+    "longitude": 69.844508907523
+  },
+  {
+    "name": "Rojhan",
+    "latitude": 28.748550230727396,
+    "longitude": 69.98049007938997
+  },
+  {
+    "name": "Gujar Khan",
+    "latitude": 33.24729114039612,
+    "longitude": 73.2682975243126
+  },
+  {
+    "name": "Kahuta",
+    "latitude": 33.604660180870994,
+    "longitude": 73.42019960926983
+  },
+  {
+    "name": "Kallar Sayaddan",
+    "latitude": 33.42523591284999,
+    "longitude": 73.4195658790725
+  },
+  {
+    "name": "Kotli Sattian",
+    "latitude": 33.78200767354653,
+    "longitude": 73.46329223767812
+  },
+  {
+    "name": "Murree",
+    "latitude": 33.85280742665895,
+    "longitude": 73.39124538667001
+  },
+  {
+    "name": "Rawalpindi",
+    "latitude": 33.37990397227086,
+    "longitude": 72.92256990716137
+  },
+  {
+    "name": "Taxila",
+    "latitude": 33.727966974185975,
+    "longitude": 72.78623017323005
+  },
+  {
+    "name": "Chichawatni",
+    "latitude": 30.453134519705344,
+    "longitude": 72.68794053044017
+  },
+  {
+    "name": "Sahiwal",
+    "latitude": 30.661109425771347,
+    "longitude": 73.11158483624783
+  },
+  {
+    "name": "Bhalwal",
+    "latitude": 32.28259811246571,
+    "longitude": 72.91617947776265
+  },
+  {
+    "name": "Kot Momin",
+    "latitude": 32.10350024939959,
+    "longitude": 73.09056693521826
+  },
+  {
+    "name": "Sahiwal",
+    "latitude": 31.897514668241634,
+    "longitude": 72.40809079027856
+  },
+  {
+    "name": "Sargodha",
+    "latitude": 32.02229121384463,
+    "longitude": 72.74561535952117
+  },
+  {
+    "name": "Shahpur",
+    "latitude": 32.20223337523402,
+    "longitude": 72.51835130128848
+  },
+  {
+    "name": "Sillanwali",
+    "latitude": 31.772950651436055,
+    "longitude": 72.50606443544683
+  },
+  {
+    "name": "Bhera",
+    "latitude": 32.41166046176481,
+    "longitude": 72.91981349225325
+  },
+  {
+    "name": "Ferozewala",
+    "latitude": 31.701393160225855,
+    "longitude": 74.28150769002353
+  },
+  {
+    "name": "Muridke",
+    "latitude": 31.890119053801847,
+    "longitude": 74.40795885707023
+  },
+  {
+    "name": "Safdarabad",
+    "latitude": 31.752201166844678,
+    "longitude": 73.62516706453387
+  },
+  {
+    "name": "Sharak Pur",
+    "latitude": 31.49652889808014,
+    "longitude": 74.08744266867832
+  },
+  {
+    "name": "Sheikhupura",
+    "latitude": 31.72866600318408,
+    "longitude": 73.86386257270935
+  },
+  {
+    "name": "Daska",
+    "latitude": 32.274719625547554,
+    "longitude": 74.42979148229826
+  },
+  {
+    "name": "Pasrur",
+    "latitude": 32.25928872017269,
+    "longitude": 74.65054242139806
+  },
+  {
+    "name": "Sambrial",
+    "latitude": 32.4919517348475,
+    "longitude": 74.33072308120678
+  },
+  {
+    "name": "Sialkot",
+    "latitude": 32.54262904000005,
+    "longitude": 74.51614735240341
+  },
+  {
+    "name": "Gojra",
+    "latitude": 31.133720082056893,
+    "longitude": 72.67634098286025
+  },
+  {
+    "name": "Kamalia",
+    "latitude": 30.652710482213532,
+    "longitude": 72.52458504871005
+  },
+  {
+    "name": "Toba Tek Singh",
+    "latitude": 30.930660945049986,
+    "longitude": 72.5537808865964
+  },
+  {
+    "name": "Pir Mahal",
+    "latitude": 30.747713938396352,
+    "longitude": 72.43175083453679
+  },
+  {
+    "name": "Burewala",
+    "latitude": 30.154949279160913,
+    "longitude": 72.74489963349177
+  },
+  {
+    "name": "Mailsi",
+    "latitude": 29.859815951620188,
+    "longitude": 72.06312679261866
+  },
+  {
+    "name": "Vehari",
+    "latitude": 30.010280575390425,
+    "longitude": 72.42051474267373
+  },
+  {
+    "name": "Badin",
+    "latitude": 24.547122474789347,
+    "longitude": 68.92461314053193
+  },
+  {
+    "name": "Matli",
+    "latitude": 25.10916006306289,
+    "longitude": 68.83596319213837
+  },
+  {
+    "name": "Shaheed Fazil Rahu",
+    "latitude": 24.661717671957355,
+    "longitude": 68.56527010673855
+  },
+  {
+    "name": "Talhar",
+    "latitude": 24.87332671013995,
+    "longitude": 68.87555560033552
+  },
+  {
+    "name": "Tando Bago",
+    "latitude": 24.77470534155817,
+    "longitude": 69.12187165236159
+  },
+  {
+    "name": "Gulberg Town",
+    "latitude": 24.93218022399171,
+    "longitude": 67.07114405024174
+  },
+  {
+    "name": "Liaqatabad Town",
+    "latitude": 24.90149597508241,
+    "longitude": 67.0389014540001
+  },
+  {
+    "name": "New Karachi Town",
+    "latitude": 24.985467683616587,
+    "longitude": 67.06538440345872
+  },
+  {
+    "name": "North Nazimabad Town",
+    "latitude": 24.935516688901043,
+    "longitude": 67.04003444578224
+  },
+  {
+    "name": "Dadu",
+    "latitude": 26.79121872852993,
+    "longitude": 67.78616630138444
+  },
+  {
+    "name": "Johi",
+    "latitude": 26.69115719146507,
+    "longitude": 67.49819337031381
+  },
+  {
+    "name": "Khairpur Nathan Shah",
+    "latitude": 27.073877435851283,
+    "longitude": 67.51064273158136
+  },
+  {
+    "name": "Mehar",
+    "latitude": 27.201291422797166,
+    "longitude": 67.7699650485128
+  },
+  {
+    "name": "Gulshan Iqbal Town",
+    "latitude": 24.95947010237863,
+    "longitude": 67.15336499593573
+  },
+  {
+    "name": "Jamshaid Town",
+    "latitude": 24.89261988000806,
+    "longitude": 67.07938238384749
+  },
+  {
+    "name": "Daharki",
+    "latitude": 27.836666794072535,
+    "longitude": 69.68896697154875
+  },
+  {
+    "name": "Ghotki",
+    "latitude": 28.015744238439456,
+    "longitude": 69.34661633124584
+  },
+  {
+    "name": "Khangarh",
+    "latitude": 27.66359331414606,
+    "longitude": 69.46267065995386
+  },
+  {
+    "name": "Mirpur Mathelo",
+    "latitude": 27.806861176326922,
+    "longitude": 69.57133987435346
+  },
+  {
+    "name": "Ubauro",
+    "latitude": 28.1794067963693,
+    "longitude": 69.69003439741029
+  },
+  {
+    "name": "Hyderabad",
+    "latitude": 25.324506985044597,
+    "longitude": 68.49643961842108
+  },
+  {
+    "name": "Hyderabad City",
+    "latitude": 25.371881603327477,
+    "longitude": 68.34889011575667
+  },
+  {
+    "name": "Latifabad",
+    "latitude": 25.242453758066524,
+    "longitude": 68.40827254070749
+  },
+  {
+    "name": "Qasimabad",
+    "latitude": 25.40496430050762,
+    "longitude": 68.32337830365162
+  },
+  {
+    "name": "Garhi Khairo",
+    "latitude": 28.034245067641073,
+    "longitude": 68.1701615668186
+  },
+  {
+    "name": "Jacobabad",
+    "latitude": 28.21275602123275,
+    "longitude": 68.38247716262275
+  },
+  {
+    "name": "Thul",
+    "latitude": 28.23173175397923,
+    "longitude": 68.73043029162396
+  },
+  {
+    "name": "Kotri",
+    "latitude": 25.523746347726945,
+    "longitude": 68.1712653021936
+  },
+  {
+    "name": "Manjhand",
+    "latitude": 25.914122532888207,
+    "longitude": 68.05421359912766
+  },
+  {
+    "name": "Sehwan Sharif",
+    "latitude": 26.24590293632075,
+    "longitude": 67.69663146374836
+  },
+  {
+    "name": "Thano Bula Khan",
+    "latitude": 25.558408439303776,
+    "longitude": 67.62134745513455
+  },
+  {
+    "name": "Meero Khan",
+    "latitude": 27.744455000100906,
+    "longitude": 67.94060511778659
+  },
+  {
+    "name": "Nasir Abad",
+    "latitude": 27.43343500686648,
+    "longitude": 67.97727339116862
+  },
+  {
+    "name": "Qambar Ali Khan",
+    "latitude": 27.57269237669811,
+    "longitude": 67.72930123353538
+  },
+  {
+    "name": "Qubo Saeed Khan",
+    "latitude": 27.771770426649855,
+    "longitude": 67.6290525144767
+  },
+  {
+    "name": "Shahdad Kot",
+    "latitude": 27.90649309453723,
+    "longitude": 67.95238207169552
+  },
+  {
+    "name": "Sijawal Junejo",
+    "latitude": 27.80203742998099,
+    "longitude": 68.1026006735334
+  },
+  {
+    "name": "Warah",
+    "latitude": 27.432215849476485,
+    "longitude": 67.74795875562485
+  },
+  {
+    "name": "Kandh Kot",
+    "latitude": 28.180424457597233,
+    "longitude": 69.15151236954028
+  },
+  {
+    "name": "Kashmore",
+    "latitude": 28.273968877617634,
+    "longitude": 69.40108406162715
+  },
+  {
+    "name": "Tangwani",
+    "latitude": 28.25399312064166,
+    "longitude": 69.03744855312246
+  },
+  {
+    "name": "Faiz Ganj",
+    "latitude": 26.780948501337896,
+    "longitude": 68.44849897039528
+  },
+  {
+    "name": "Gambat",
+    "latitude": 27.445418419747,
+    "longitude": 68.41106382291635
+  },
+  {
+    "name": "Khairpur",
+    "latitude": 27.518784444773853,
+    "longitude": 68.73989801092377
+  },
+  {
+    "name": "Kingri",
+    "latitude": 27.63649895431387,
+    "longitude": 68.62913546673995
+  },
+  {
+    "name": "Kot Diji",
+    "latitude": 27.329477095390075,
+    "longitude": 68.67464405988217
+  },
+  {
+    "name": "Nara",
+    "latitude": 26.713307878647566,
+    "longitude": 69.08238601684316
+  },
+  {
+    "name": "Sobho Dero",
+    "latitude": 27.260539989841284,
+    "longitude": 68.33881085094019
+  },
+  {
+    "name": "Thari Meer Wah",
+    "latitude": 27.061738734718627,
+    "longitude": 68.53999300589126
+  },
+  {
+    "name": "Korangi Town",
+    "latitude": 24.830016234207363,
+    "longitude": 67.12934831385373
+  },
+  {
+    "name": "Landhi Town",
+    "latitude": 24.840677261190514,
+    "longitude": 67.18174229133339
+  },
+  {
+    "name": "Shah Faisal Town",
+    "latitude": 24.86887055807345,
+    "longitude": 67.15677964080739
+  },
+  {
+    "name": "Baqrani",
+    "latitude": 27.433135940811773,
+    "longitude": 68.16609011462752
+  },
+  {
+    "name": "Dokri",
+    "latitude": 27.25121571153698,
+    "longitude": 68.06807582920005
+  },
+  {
+    "name": "Larkana",
+    "latitude": 27.581368409512123,
+    "longitude": 68.2079079155218
+  },
+  {
+    "name": "Rato Dero",
+    "latitude": 27.754390213419338,
+    "longitude": 68.29570131457412
+  },
+  {
+    "name": "Bin Qasim Town",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Gadap Town",
+    "latitude": 25.1778818779325,
+    "longitude": 67.29554750459755
+  },
+  {
+    "name": "Malir Town",
+    "latitude": 24.88927618296056,
+    "longitude": 67.20271159693428
+  },
+  {
+    "name": "Hala",
+    "latitude": 25.841086556647692,
+    "longitude": 68.40383116363002
+  },
+  {
+    "name": "Matiari",
+    "latitude": 25.663316023823757,
+    "longitude": 68.52781653937699
+  },
+  {
+    "name": "Saeedabad",
+    "latitude": 25.999347195103947,
+    "longitude": 68.40623981669697
+  },
+  {
+    "name": "Digri",
+    "latitude": 25.12885642417282,
+    "longitude": 69.13125446897101
+  },
+  {
+    "name": "Hussain Bux Muree",
+    "latitude": 25.630116134358172,
+    "longitude": 68.95836700460752
+  },
+  {
+    "name": "Jhudo",
+    "latitude": 24.976864882234256,
+    "longitude": 69.34275210195563
+  },
+  {
+    "name": "Kot Ghulam Muhammad",
+    "latitude": 25.26736634239589,
+    "longitude": 69.22405995569801
+  },
+  {
+    "name": "Mirpur Khas",
+    "latitude": 25.481261128950802,
+    "longitude": 68.9714718109853
+  },
+  {
+    "name": "Shuja Abad",
+    "latitude": 25.42916217718417,
+    "longitude": 69.06415815711381
+  },
+  {
+    "name": "Sindhri",
+    "latitude": 25.657149097788178,
+    "longitude": 69.17306239582906
+  },
+  {
+    "name": "Bhiria",
+    "latitude": 26.891532092512314,
+    "longitude": 68.16891479557619
+  },
+  {
+    "name": "Kandiaro",
+    "latitude": 27.074466569203235,
+    "longitude": 68.11612624602513
+  },
+  {
+    "name": "Mehrab Pur",
+    "latitude": 27.05506888947653,
+    "longitude": 68.32422640599151
+  },
+  {
+    "name": "Moro",
+    "latitude": 26.69278636666626,
+    "longitude": 67.96602047068974
+  },
+  {
+    "name": "Naushahro Feroze",
+    "latitude": 26.776161963589402,
+    "longitude": 68.1240272416949
+  },
+  {
+    "name": "Jam Nawaz Ali",
+    "latitude": 25.795898843091937,
+    "longitude": 68.86631400567408
+  },
+  {
+    "name": "Khipro",
+    "latitude": 25.801462318633607,
+    "longitude": 69.58645409655358
+  },
+  {
+    "name": "Sanghar",
+    "latitude": 26.09007545957336,
+    "longitude": 69.0206852654129
+  },
+  {
+    "name": "Shahdadpur",
+    "latitude": 26.030611756652203,
+    "longitude": 68.57010964546257
+  },
+  {
+    "name": "Sinjhoro",
+    "latitude": 26.048594602046467,
+    "longitude": 68.82165798892596
+  },
+  {
+    "name": "Tando Adam",
+    "latitude": 25.814489327157194,
+    "longitude": 68.633918461784
+  },
+  {
+    "name": "Daulat Pur",
+    "latitude": 26.420315676888823,
+    "longitude": 68.08852278206177
+  },
+  {
+    "name": "Daur",
+    "latitude": 26.393543239747288,
+    "longitude": 68.47906246769398
+  },
+  {
+    "name": "Nawabshah",
+    "latitude": 26.265874392005767,
+    "longitude": 68.31757523335341
+  },
+  {
+    "name": "Sakrand",
+    "latitude": 26.17488767106784,
+    "longitude": 68.25076989897072
+  },
+  {
+    "name": "Garhi Yasin",
+    "latitude": 27.852960022607842,
+    "longitude": 68.47236321187023
+  },
+  {
+    "name": "Khanpur",
+    "latitude": 28.040639128584722,
+    "longitude": 68.79960218114186
+  },
+  {
+    "name": "Lakhi",
+    "latitude": 27.872279430585188,
+    "longitude": 68.71947394677854
+  },
+  {
+    "name": "Shikarpur",
+    "latitude": 28.021581953553692,
+    "longitude": 68.5493654347275
+  },
+  {
+    "name": "Kemari Town",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Liyari Town",
+    "latitude": 24.85645726789135,
+    "longitude": 67.0029827819729
+  },
+  {
+    "name": "Saddar Town",
+    "latitude": 24.83570156232057,
+    "longitude": 67.04741514501929
+  },
+  {
+    "name": "Jati",
+    "latitude": 24.397932905559262,
+    "longitude": 68.25345400332037
+  },
+  {
+    "name": "Kharo Chan",
+    "latitude": 24.04003081420188,
+    "longitude": 67.59494830956653
+  },
+  {
+    "name": "Mirpur Bathoro",
+    "latitude": 24.80447961690556,
+    "longitude": 68.24622777135403
+  },
+  {
+    "name": "Shah Bunder",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Sujawal",
+    "latitude": 24.633352492908834,
+    "longitude": 68.10263361820365
+  },
+  {
+    "name": "New Sukkur",
+    "latitude": 27.781245142944005,
+    "longitude": 68.81503473216387
+  },
+  {
+    "name": "Pano Aqil",
+    "latitude": 27.8529925397005,
+    "longitude": 69.09162341561529
+  },
+  {
+    "name": "Rohri",
+    "latitude": 27.584187780867012,
+    "longitude": 68.9795684622018
+  },
+  {
+    "name": "Salehpat",
+    "latitude": 27.40255557575041,
+    "longitude": 69.25003857227794
+  },
+  {
+    "name": "Sukkur",
+    "latitude": 27.718627591758025,
+    "longitude": 68.82518667650237
+  },
+  {
+    "name": "Chamber",
+    "latitude": 25.32080415137121,
+    "longitude": 68.80096589629555
+  },
+  {
+    "name": "Jhando Mari",
+    "latitude": 25.57746829910841,
+    "longitude": 68.79325008076866
+  },
+  {
+    "name": "Tando Allahyar",
+    "latitude": 25.441746513340814,
+    "longitude": 68.70619323663692
+  },
+  {
+    "name": "Bulri Shah Karim",
+    "latitude": 24.991449852537915,
+    "longitude": 68.37642502391638
+  },
+  {
+    "name": "Tando Ghulam Hyder",
+    "latitude": 24.92522198726213,
+    "longitude": 68.6337602921681
+  },
+  {
+    "name": "Tando Muhammad Khan",
+    "latitude": 25.153530166204614,
+    "longitude": 68.58559159232047
+  },
+  {
+    "name": "Chachro",
+    "latitude": 25.080245061098907,
+    "longitude": 70.32636134192617
+  },
+  {
+    "name": "Dahli",
+    "latitude": 25.47179548801972,
+    "longitude": 70.31950412604068
+  },
+  {
+    "name": "Diplo",
+    "latitude": 24.44665086432966,
+    "longitude": 69.47676075801306
+  },
+  {
+    "name": "Islam Kot",
+    "latitude": 24.637300667038375,
+    "longitude": 70.30606326260717
+  },
+  {
+    "name": "Mithi",
+    "latitude": 24.816870445106193,
+    "longitude": 69.81358843740517
+  },
+  {
+    "name": "Nagar Parkar",
+    "latitude": 24.70857823924789,
+    "longitude": 70.64610133385678
+  },
+  {
+    "name": "Kaloi",
+    "latitude": 24.670657789605826,
+    "longitude": 69.3734942732768
+  },
+  {
+    "name": "Ghorabari",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Keti Bunder",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Mirpur Sakro",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Thatta",
+    "latitude": 24.990213335985406,
+    "longitude": 67.99086048470076
+  },
+  {
+    "name": "Kunri",
+    "latitude": 25.066488360265517,
+    "longitude": 69.55166624357099
+  },
+  {
+    "name": "Pithoro",
+    "latitude": 25.49852752455662,
+    "longitude": 69.37766897143264
+  },
+  {
+    "name": "Samaro",
+    "latitude": 25.336191204177176,
+    "longitude": 69.3954142432896
+  },
+  {
+    "name": "Umer Kot",
+    "latitude": 25.467669361777148,
+    "longitude": 69.99134149258667
+  },
+  {
+    "name": "Baldia Town",
+    "latitude": 24.922738888333342,
+    "longitude": 66.96470000752633
+  },
+  {
+    "name": "Orangi Town",
+    "latitude": 25.002583757828035,
+    "longitude": 67.02922439838801
+  },
+  {
+    "name": "Site Town",
+    "latitude": 24.90975252812771,
+    "longitude": 67.01155289174473
+  },
+  {
+    "name": "Jammu & Kashmir",
+    "latitude": 32.9365799660699,
+    "longitude": 76.01391441566068
+  }
+]

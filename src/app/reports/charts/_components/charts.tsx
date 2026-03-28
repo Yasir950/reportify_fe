@@ -1,143 +1,162 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useMemo } from "react";
 import dynamic from "next/dynamic";
 import { ApexOptions } from "apexcharts";
+import { masoolService } from "@/services/masoolService";
 
 const Chart = dynamic(() => import("react-apexcharts"), { ssr: false });
 
 export default function ChartsData() {
-  const [status, setStatus] = useState("Education");
-  const [xAxis, setXAxis] = useState("Date");
-  // Casting the string to the specific union type ApexCharts expects
-  const [chartType, setChartType] = useState<"line" | "bar" | "area" | "pie" | "donut">("line");
-  const [isDark, setIsDark] = useState(false);
+  const [month, setMonth] = useState("1");
+  const [level, setLevel] = useState("provinces");
+  const [status, setStatus] = useState("activities");
+  const [reportData, setReportData] = useState<any[]>([]);
+  const [chartType, setChartType] = useState<"line" | "bar" | "area" | "pie" | "donut">("bar");
 
-  const educationLevels = ["Matric", "Inter", "Bachelors", "MS", "PHD"];
-
-  // 1. Properly typed States
-  // This allows the series to be either [{name, data}] OR [number, number]
-  const [series, setSeries] = useState<ApexAxisChartSeries | ApexNonAxisChartSeries>([]);
-  const [chartOptions, setChartOptions] = useState<ApexOptions>({
-    chart: { id: "dynamic-chart" },
-    xaxis: { categories: educationLevels },
-    theme: { mode: "light" },
-  });
-
-  // 2. Detect Dark Mode
   useEffect(() => {
-    const checkTheme = () => setIsDark(document.documentElement.classList.contains("dark"));
-    checkTheme();
-    const observer = new MutationObserver(checkTheme);
-    observer.observe(document.documentElement, { attributes: true });
-    return () => observer.disconnect();
-  }, []);
+    masoolService.fetchMasoolReport(month, level, status)
+      .then((data) => setReportData(Array.isArray(data) ? data : []))
+      .catch(() => setReportData([]));
+  }, [month, level, status]);
 
-  // 3. Reactive Update Logic
-  useEffect(() => {
-    const rawData = [30, 40, 45, 50, 49].map(n => n + Math.floor(Math.random() * 20));
-    const isRadial = chartType === "pie" || chartType === "donut";
+  const chartData = useMemo(() => {
+    const counts: Record<string, number> = {};
+    reportData.forEach((loc) => {
+      let val = "";
+      if (status === "activities") val = loc.activity ;
+      else if (status === "education") val = loc.education_level ;
+      else if (status === "skill") val = loc.skills_level ;
+      else if (status === "ideology") val = loc.ideological_status ;
+      else if (status === "active") val = `Level ${loc.active_status}`;
+      else if (status === "age") {
+        const age = parseInt(loc.age);
+        if (age <= 12) val = "7-12";
+        else if (age <= 17) val = "13-17";
+        else if (age <= 25) val = "18-25";
+        else val = "25+";
+      }
+      counts[val] = (counts[val] || 0) + 1;
+    });
 
-    if (isRadial) {
-      // For Pie/Donut, series must be a simple number array
-      setSeries(rawData);
-      setChartOptions({
-        chart: { id: "dynamic-chart" },
-        labels: educationLevels,
-        theme: { mode: isDark ? "dark" : "light" },
-        legend: { 
-          position: 'bottom', 
-          labels: { colors: isDark ? "#fff" : "#000" } 
-        }
-      });
-    } else {
-      // For Line/Bar/Area, series must be an array of objects
-      setSeries([{ name: status, data: rawData }]);
-      setChartOptions({
-        chart: { id: "dynamic-chart" },
-        xaxis: { 
-          categories: educationLevels,
-          title: { text: xAxis, style: { color: isDark ? "#fff" : "#000" } },
-          labels: { style: { colors: isDark ? "#fff" : "#000" } } 
-        },
-        yaxis: {
-          labels: { style: { colors: isDark ? "#fff" : "#000" } }
-        },
-        theme: { mode: isDark ? "dark" : "light" },
-        stroke: { curve: "smooth" }
-      });
+    return {
+      labels: Object.keys(counts),
+      values: Object.values(counts),
+    };
+  }, [reportData, status]);
+
+  const isRadial = chartType === "pie" || chartType === "donut";
+  
+  const series: ApexAxisChartSeries | ApexNonAxisChartSeries = isRadial 
+    ? chartData.values 
+    : [{ name: "Total Count", data: chartData.values }];
+
+  const options: ApexOptions = {
+    chart: { 
+      id: "masool-charts", 
+      toolbar: { show: false },
+      fontFamily: "Inter, system-ui, sans-serif" // Cleaner font stack
+    },
+    labels: chartData.labels,
+    xaxis: { 
+      categories: isRadial ? [] : chartData.labels,
+      labels: { 
+        style: { 
+          colors: "#334155", // Darker slate for better legibility
+          fontSize: '12px',
+          fontWeight: 500 
+        } 
+      }
+    },
+    yaxis: {
+      labels: {
+        style: { colors: "#64748b", fontSize: '12px' }
+      }
+    },
+    // High-contrast colors
+    colors: ["#2563eb", "#dc2626", "#059669", "#d97706", "#7c3aed", "#db2777"],
+    plotOptions: {
+      bar: { borderRadius: 6, distributed: true, columnWidth: '60%' }
+    },
+    legend: { 
+      position: "bottom",
+      fontSize: '13px',
+      fontWeight: 500,
+      labels: { colors: "#1e293b" },
+      markers: { radius: 12 }
+    },
+    dataLabels: { 
+      enabled: true,
+      style: { fontSize: '12px', fontWeight: 'bold' }
+    },
+    title: {
+      text: `${status.charAt(0).toUpperCase() + status.slice(1)} Analytics`,
+      align: "left",
+      style: { color: "#0f172a", fontSize: '18px', fontWeight: 600 }
+    },
+    tooltip: {
+        theme: 'light',
+        style: { fontSize: '12px' }
     }
-  }, [status, xAxis, chartType, isDark]);
+  };
 
   return (
-    <div className="p-6 bg-gray-100 dark:bg-gray-900 min-h-screen transition-colors">
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6 bg-white dark:bg-gray-800 p-5 rounded-xl shadow-sm border border-gray-200 dark:border-gray-700">
-        
-        {/* Category Selector */}
-        <div>
-          <label className="block text-sm font-medium mb-2 text-gray-700 dark:text-gray-300">Category</label>
-          <select 
-            value={status} 
-            onChange={(e) => setStatus(e.target.value)} 
-            className="w-full p-2.5 rounded-lg border bg-gray-50 dark:bg-gray-700 dark:text-white dark:border-gray-600 outline-none focus:ring-2 focus:ring-blue-500"
-          >
-            <option value="Education">Education</option>
-            <option value="Employment">Employment</option>
-            <option value="Health">Health</option>
-          </select>
-        </div>
+    <div className="bg-white font-sans">
+      {/* 🛠️ FILTER PANEL */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6 p-6 border-b border-gray-100">
+        <FilterSelect label="Status Category" value={status} onChange={setStatus}>
+          <option value="activities">Activities</option>
+          <option value="education">Education</option>
+          <option value="age">Age Range</option>
+          <option value="skill">Skills Level</option>
+          <option value="ideology">Ideological Status</option>
+          <option value="active">Active Status</option>
+        </FilterSelect>
 
-        {/* X-Axis Selector */}
-        <div>
-          <label className="block text-sm font-medium mb-2 text-gray-700 dark:text-gray-300">X-Axis Label</label>
-          <select 
-            value={xAxis} 
-            onChange={(e) => setXAxis(e.target.value)} 
-            className="w-full p-2.5 rounded-lg border bg-gray-50 dark:bg-gray-700 dark:text-white dark:border-gray-600 outline-none focus:ring-2 focus:ring-blue-500"
-          >
-            <option value="Date">Date</option>
-            <option value="Month">Month</option>
-            <option value="Level">Level</option>
-          </select>
-        </div>
-
-        {/* Chart Type Selector */}
-        <div>
-          <label className="block text-sm font-medium mb-2 text-blue-600 dark:text-blue-400">Visual Type</label>
-          <select 
-            value={chartType} 
-            onChange={(e) => setChartType(e.target.value as any)} 
-            className="w-full p-2.5 rounded-lg border border-blue-200 bg-blue-50 dark:bg-gray-700 dark:text-white dark:border-blue-900 outline-none focus:ring-2 focus:ring-blue-500"
-          >
-            <option value="line">Line Chart</option>
-            <option value="bar">Bar Chart</option>
-            <option value="area">Area Chart</option>
-            <option value="pie">Pie Chart</option>
-            <option value="donut">Donut Chart</option>
-          </select>
-        </div>
+        <FilterSelect label="Visual Layout" value={chartType} onChange={setChartType}>
+          <option value="bar">Bar Graph</option>
+          <option value="pie">Pie Chart</option>
+          <option value="donut">Donut Chart</option>
+          <option value="line">Line Trend</option>
+          <option value="area">Area Map</option>
+        </FilterSelect>
       </div>
 
-      {/* Chart Card */}
-      <div className="bg-white dark:bg-gray-800 p-6 rounded-xl shadow-lg border border-gray-200 dark:border-gray-700">
-        <div className="flex justify-between items-center mb-6">
-          <h2 className="text-lg font-bold text-gray-800 dark:text-white uppercase tracking-wide">
-            {status} Analysis
-          </h2>
-          <span className="px-3 py-1 bg-blue-100 text-blue-700 dark:bg-blue-900 dark:text-blue-200 text-xs font-bold rounded-full uppercase">
-            {chartType}
-          </span>
-        </div>
-        
-        {/* 'key' forces re-mount when type changes to prevent scale calculation bugs */}
-        <Chart 
-          key={chartType}
-          options={chartOptions} 
-          series={series} 
-          type={chartType} 
-          height={400} 
-        />
+      {/* 📊 CHART DISPLAY */}
+      <div className="p-8">
+        {reportData.length > 0 ? (
+          <div className="w-full">
+            <Chart 
+              key={chartType + status} 
+              options={options} 
+              series={series} 
+              type={chartType} 
+              height={400} 
+            />
+          </div>
+        ) : (
+          <div className="h-[400px] flex flex-col items-center justify-center text-slate-400 border-2 border-dashed border-slate-100 rounded-2xl">
+            <p className="text-sm font-medium">No records found for this criteria</p>
+          </div>
+        )}
       </div>
+    </div>
+  );
+}
+
+function FilterSelect({ label, value, onChange, children }: any) {
+  return (
+    <div className="flex flex-col space-y-2">
+      <label className="text-xs font-semibold text-slate-500 uppercase tracking-wider">
+        {label}
+      </label>
+      <select 
+        value={value} 
+        onChange={(e) => onChange(e.target.value)} 
+        className="w-full p-3 rounded-xl border border-slate-200 bg-slate-50 text-slate-700 text-sm font-medium outline-none transition-all focus:bg-white focus:ring-2 focus:ring-blue-500/20 focus:border-blue-500 cursor-pointer appearance-none shadow-sm"
+      >
+        {children}
+      </select>
     </div>
   );
 }

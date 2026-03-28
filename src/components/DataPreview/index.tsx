@@ -78,14 +78,12 @@ const DataPreviewTable: React.FC = () => {
   return (
     <div className="mt-6">
       <div className="mb-6 rounded-lg border border-gray-300 bg-white p-6 shadow-sm dark:border-gray-700 dark:bg-gray-900">
-        <h2 className="mb-4 text-lg font-semibold text-gray-700 dark:text-gray-300">
-          Upload System Data
-        </h2>
+       
 
-        <div className="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-4 items-end">
+        <div className="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3 items-end">
           {/* 1. Dropdown for File Type */}
           <div className="flex flex-col gap-1">
-            <label className="text-xs font-medium text-gray-500">Select Upload Category</label>
+            <label className="text-sm font-medium text-gray-500">Select Upload Category</label>
             <select
               value={uploadType}
               onChange={(e) => {
@@ -102,12 +100,12 @@ const DataPreviewTable: React.FC = () => {
 
           {/* 2. File Input */}
           <div className="flex flex-col gap-1">
-            <label className="text-xs font-medium text-gray-500">Choose File</label>
+            <label className="text-sm font-medium text-gray-500">Choose File</label>
             <input
               type="file"
               accept=".xlsx,.xls,.csv"
               onChange={handleExcelUpload}
-              className="rounded-md border border-gray-400 bg-gray-50 p-1.5 text-sm text-gray-700 dark:border-gray-700 dark:bg-gray-800 dark:text-gray-300"
+              className=" rounded-md border border-gray-400 bg-gray-50 p-1.5 text-sm text-gray-700 dark:border-gray-700 dark:bg-gray-800 dark:text-gray-300"
             />
           </div>
 

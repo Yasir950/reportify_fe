@@ -50,4 +50,21 @@ export const masoolService = {
 
     return data;
   },
+  // service.ts
+  fetchMasoolReport: async (month?: string, level?: string, status?: string) => {
+    // Build query string dynamically
+    const params = new URLSearchParams();
+    params.append("module", "AMS");
+    if (month) params.append("month", month);
+    if (level) params.append("level", level);
+    if (status) params.append("status", status);
+
+    const response = await fetch(
+      `https://jamea-backend.onrender.com/api/v1/jamea/masool-report?${params.toString()}`
+    );
+
+    if (!response.ok) throw new Error("Failed to fetch report");
+    const result = await response.json();
+    return result.data;
+  },
 };
