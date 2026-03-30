@@ -83,7 +83,6 @@ export default function ChartsData() {
       fontSize: '13px',
       fontWeight: 500,
       labels: { colors: "#1e293b" },
-      markers: { radius: 12 }
     },
     dataLabels: { 
       enabled: true,

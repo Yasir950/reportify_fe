@@ -2,7 +2,7 @@
 
 import dynamic from "next/dynamic";
 
-const Map = dynamic(() => import("./map"), { ssr: false });
+// const Map = dynamic(() => import("./map"), { ssr: false });
 
 export function RegionLabels() {
   return (
@@ -11,7 +11,7 @@ export function RegionLabels() {
         Pakistan Map
       </h2>
 
-      <Map />
+      {/* <Map /> */}
     </div>
   );
 }
