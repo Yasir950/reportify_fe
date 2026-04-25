@@ -9,7 +9,7 @@ export default function SignIn() {
   return (
     <div className="flex  items-center justify-center min-h-screen">
 
-      <div className="rounded-[10px] w-1/4  bg-white shadow-1 dark:bg-gray-dark dark:shadow-card">
+      <div className="rounded-[10px] w-1/3  bg-white shadow-1 dark:bg-gray-dark dark:shadow-card">
             <div className=" p-4 sm:p-12.5 xl:p-15">
                 <div className="flex justify-center mb-6">
         <img

@@ -1,6 +1,7 @@
 // services/masoolService.ts
 
 const API_BASE_URL = "https://jamea-backend.onrender.com/api/v1/jamea";
+const module = localStorage.getItem("module") || "AMS"
 
 export const masoolService = {
   /**
@@ -8,7 +9,7 @@ export const masoolService = {
    * @param file The File object from the input field
    * @param module The module name (defaults to 'AMS')
    */
-  uploadMasoolData: async (file: File, module: string = "AMS") => {
+  uploadMasoolData: async (file: File) => {
     // 1. Prepare FormData for multipart/form-data upload
     const formData = new FormData();
     formData.append("file", file);
@@ -29,7 +30,7 @@ export const masoolService = {
 
     return data;
   },
-   uploadMasoolReportData: async (file: File, module: string = "AMS") => {
+   uploadMasoolReportData: async (file: File) => {
     // 1. Prepare FormData for multipart/form-data upload
     const formData = new FormData();
     formData.append("file", file);
@@ -54,7 +55,7 @@ export const masoolService = {
   fetchMasoolReport: async (month?: string, level?: string, status?: string) => {
     // Build query string dynamically
     const params = new URLSearchParams();
-    params.append("module", "AMS");
+    params.append("module", module);
     if (month) params.append("month", month);
     if (level) params.append("level", level);
     if (status) params.append("status", status);
@@ -67,4 +68,17 @@ export const masoolService = {
     const result = await response.json();
     return result.data;
   },
+  fetchPreviousHistory: async (masoolId: number) => {
+    try {
+      const response = await fetch(
+        `https://jamea-backend.onrender.com/api/v1/jamea/masool-report/previous?masool_id=${masoolId}`
+      );
+      const result = await response.json();
+      // Adjust this based on your API's actual envelope (e.g., result.data or result)
+      return result.success ? result.data : result; 
+    } catch (error) {
+      console.error("Error fetching history:", error);
+      return [];
+    }
+  }
 };

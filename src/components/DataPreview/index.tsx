@@ -44,9 +44,9 @@ const DataPreviewTable: React.FC = () => {
     try {
       // Logic to switch between APIs based on selection
       if (uploadType === "masool_data") {
-        await masoolService.uploadMasoolData(selectedFile, "AMS");
+        await masoolService.uploadMasoolData(selectedFile);
       } else {
-        await masoolService.uploadMasoolReportData(selectedFile, "AMS");
+        await masoolService.uploadMasoolReportData(selectedFile);
       }
 
       setStatus({ 

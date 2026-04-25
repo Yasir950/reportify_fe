@@ -27,6 +27,15 @@ export const NAV_DATA = [
       },
       {
         title: {
+          en: "Add Activities",
+          ur: "سرگرمیوں شامل کریں",
+        },
+        url: "/add-activities",
+        icon: Icons.Add,
+        items: [],
+      },
+      {
+        title: {
           en: "Reports",
           ur: "رپورٹس",
         },
@@ -48,6 +57,7 @@ export const NAV_DATA = [
           },
         ],
       },
+      
     ],
   },
 ];

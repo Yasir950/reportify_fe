@@ -37,10 +37,10 @@ export default function SigninWithPassword() {
         password: data.password,
       });
 
-      console.log("Login Success:", response);
 
       // Optional: Save token if backend doesn't handle cookies automatically
-      // localStorage.setItem("token", response.token);
+      localStorage.setItem("token", response.data.token);
+      localStorage.setItem("module", response.data.module);
 
       router.push("/"); // Redirect on success
     } catch (err: any) {

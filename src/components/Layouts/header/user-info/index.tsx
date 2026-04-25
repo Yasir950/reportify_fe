@@ -36,7 +36,7 @@ export function UserInfo() {
             height={100}
           /> */}
           <figcaption className="flex items-center gap-1 font-medium text-dark dark:text-dark-6 max-[1024px]:sr-only">
-            <span>{"AMS"}</span>
+            <span>{localStorage.getItem("module")}</span>
 
             <ChevronUpIcon
               aria-hidden
@@ -68,7 +68,7 @@ export function UserInfo() {
 
           <figcaption className="space-y-1 text-base font-medium">
             <div className="mb-2 leading-none text-dark dark:text-white">
-              {"AMS"}
+              {localStorage.getItem("module")}
             </div>
 
             <div className="leading-none text-gray-6">{'admin@admin.com'}</div>
