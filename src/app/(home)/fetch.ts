@@ -4,7 +4,7 @@ export async function getOverviewData() {
 
   return {
     pro: {
-      value: 36,
+      value: 6,
       growthRate: 0.43,
     },
     dis: {
