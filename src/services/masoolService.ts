@@ -1,7 +1,7 @@
 // services/masoolService.ts
 
 const API_BASE_URL = "https://jamea-backend.onrender.com/api/v1/jamea";
-const module = localStorage.getItem("module") || "AMS"
+const module = typeof window !== 'undefined' ? localStorage.getItem("module") || "AMS" : "AMS";
 
 export const masoolService = {
   /**
